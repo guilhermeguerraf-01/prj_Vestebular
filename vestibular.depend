@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1593987832 source:f:\análise e desenvolvimento de sistemas\2º semestre\linguagem de programação\trabalho avaliativo\vestibular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"classificacao.h"
+
+1593988548 source:f:\análise e desenvolvimento de sistemas\2º semestre\linguagem de programação\trabalho avaliativo\vestibular\classificacao.c
+	<stdio.h>
+	<stdlib.h>
+	"classificacao.h"
+
+1593988974 f:\análise e desenvolvimento de sistemas\2º semestre\linguagem de programação\trabalho avaliativo\vestibular\classificacao.h
+

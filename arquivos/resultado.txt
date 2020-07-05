@@ -1,0 +1,18 @@
+
+CLASSIFICACAO POR NUMERO DO RA
+
+RA       Pontos
+12131       8
+12134       14
+12233       12
+13311       8
+14411       22
+
+CLASSIFICACAO POR NOTA
+
+RA       Pontos
+14411       22
+12134       14
+12233       12
+13311       8
+12131       8
