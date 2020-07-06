@@ -9,12 +9,6 @@ struct aluno{
 struct aluno v[6];
 
 void verificarAberturaArquivos(){
-    fout = fopen("arquivos\\resultado.txt", "r");
-    if(fout == NULL){
-        printf("Impossivel abrir arquivo\n");
-        exit(1);
-    }
-    fclose(fout);
     fr = fopen("arquivos\\respostas.txt", "r");
     if(fr == NULL){
         printf("Impossivel abrir arquivo\n");
